@@ -1,2 +1,3 @@
 # git-intro
-Template Repository for git introductory lesson
+Nataly's Repository for git introductory lesson
+Edited the readme from GitHub
